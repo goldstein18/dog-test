@@ -138,9 +138,9 @@ form select  {
     @media (max-width:600px) {
 
         .logo {
-            margin-top:20px;
-            width:450px;
-            height:250x;
+            margin-top:10px;
+            width:400px;
+            height:200x;
             text-align: center;
            
         }
@@ -157,7 +157,7 @@ form select  {
 
         .woody {
         
-            position:fixed;
+            position:relative;
             bottom:0px;
             left:0px;
             width:200px;
@@ -165,7 +165,7 @@ form select  {
         }
     
         .buzz {
-            position:fixed;
+            position:relative;
             bottom:0px;
             right:0px;
             width:270px;
@@ -219,7 +219,7 @@ form select  {
         margin-right:15px;
     }
     .mobile-text {
-        border:4px solid red;
+       
         display: flex;
         flex-direction: row;
         justify-content: center;
@@ -236,7 +236,7 @@ form select  {
         letter-spacing: 0px;
         text-align: center;
         visibility: visible;
-        border:1px solid purple;
+        
     }
     .mobile-text-on-buzz{
         margin-top:25px;
@@ -249,7 +249,7 @@ form select  {
         letter-spacing: 0px;
         text-align: center;
         visibility: visible;
-        border:1px solid pink;
+        
         
         
 
