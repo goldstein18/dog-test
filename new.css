@@ -48,6 +48,8 @@ body {
   background-color: #f80012;
   box-shadow: 0 5px #f80012;
   transform: translateY(4px);
+  border:2px dashed #f80012;
+  border-radius:10px;
  
 }
 
