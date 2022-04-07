@@ -89,16 +89,12 @@ form select  {
        margin-top:20px;
        position:relative;
        left:20px;
+       border:3px dashed #2c61b2;
+        border-radius: 
         
     }
 
-form input:active {
-      background-color: #blue;
-  box-shadow: 0 5px #blue;
-  transform: translateY(4px);
-  border:2px dashed #blue;
-  
-}
+
 
     .woody {
         
