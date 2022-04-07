@@ -81,7 +81,7 @@ form select  {
 
     .woody {
         
-        position:fixed;
+        position:absolute;
         bottom:0px;
         left:50px;
         width:350px;
@@ -89,7 +89,7 @@ form select  {
     }
 
     .buzz {
-        position:fixed;
+        position:absolute;
         bottom:0px;
         right:20px;
         width:500px;
