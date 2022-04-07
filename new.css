@@ -39,7 +39,15 @@ body {
     width:300px;
     height:80px;
     margin-bottom:30px;
+   cursor: pointer;
+  outline: none;
+  
 }
+
+.connect:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #f80012;
+  transform: translateY(4px);
 
 form label{
     margin-top: 10px;
