@@ -9,6 +9,11 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
      font-weight: normal;
     font-style: normal; 
+    speak: none;
+font-variant: normal;
+text-transform: none;
+line-height: 1;
+-webkit-font-smoothing: antialiased;
    
     src: url('assets/GillSans.ttc') format('WOFF');
   }
